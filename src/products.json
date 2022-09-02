@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Mobile 1",
+    "image": "https://cdn.shopify.com/s/files/1/2505/6374/products/nokia_C3-front_back-Nordic_Blue.png?v=1599733440",
+    "price": "10000",
+    "category": "mobiles"
+  },
+  {
+    "id": 2,
+    "name": "Mobile 2",
+    "image": "https://cdn.shopify.com/s/files/1/2505/6374/products/nokia_C3-front_back-Nordic_Blue.png?v=1599733440",
+    "price": "15000",
+    "category": "mobiles"
+  },
+  {
+    "id": 3,
+    "name": "Mobile 3",
+    "image": "https://cdn.shopify.com/s/files/1/2505/6374/products/nokia_C3-front_back-Nordic_Blue.png?v=1599733440",
+    "price": "20000",
+    "category": "mobiles"
+  },
+  {
+    "id": 4,
+    "name": "Mobile 4",
+    "image": "https://cdn.shopify.com/s/files/1/2505/6374/products/nokia_C3-front_back-Nordic_Blue.png?v=1599733440",
+    "price": "25000",
+    "category": "mobiles"
+  },
+  {
+    "id": 5,
+    "name": "Mobile 5",
+    "image": "https://cdn.shopify.com/s/files/1/2505/6374/products/nokia_C3-front_back-Nordic_Blue.png?v=1599733440",
+    "price": "35000",
+    "category": "mobiles"
+  },
+  {
+    "id": 6,
+    "name": "Mobile 6",
+    "image": "https://cdn.shopify.com/s/files/1/2505/6374/products/nokia_C3-front_back-Nordic_Blue.png?v=1599733440",
+    "price": "45000",
+    "category": "mobiles"
+  }
+]
